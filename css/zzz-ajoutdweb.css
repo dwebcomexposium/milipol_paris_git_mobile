@@ -1,0 +1,13 @@
+figure.center{
+	text-align: center;
+}
+a {color:#1e4f8f;}
+a:active, a:hover, a:focus {color: #5cbcff;}
+.gsf-fields{background:#5cbcff;}
+
+
+.tt-dropdown-menu {
+    right: -20% !important;
+    margin-top: 0 !important;
+    z-index:20000;
+}
